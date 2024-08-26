@@ -14,7 +14,8 @@
   </a>
   <img src="https://img.shields.io/github/followers/nirgeier?style=social">
   <img src="https://img.shields.io/github/stars/nirgeier?style=social">
-  <img src="https://camo.githubusercontent.com/3e9f410e6d70c97c35b796d24f442668f86d5d37afe49ccfe0207d1fe01d27c5/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6e69726765696572" alt="Visitor Badge" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=nirgeier" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/ed4015e1bae53aed1d60fed54caec574451dd96f1f8866efc0a025ca59f0cf70/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6e69726765696572" alt="Visitor Badge" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=nirgeier" style="max-width: 100%;">
+            
   <br/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirgeier&layout=compact&theme=vision-friendly-dark">
   <img height="150" src="http://github-readme-streak-stats.herokuapp.com/?user=nirgeier&theme=dark&background=000000">
