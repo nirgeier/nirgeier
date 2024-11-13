@@ -5,6 +5,9 @@
 <div align="center">
   <a href="https://stackoverflow.com/users/1755598/codewizard"><img src="https://stackoverflow.com/users/flair/1755598.png" height="40" alt="profile for CodeWizard at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for CodeWizard at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
   <a href="https://www.linkedin.com/in/nirgeier/"><img height="40" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/></a>
+
+  <br/>
+  
   <a href="https://stackoverflow.com/users/1755598/codewizard">
     <img src="https://img.shields.io/stackexchange/stackoverflow/r/1755598">
   </a>
@@ -12,6 +15,7 @@
   <img src="https://img.shields.io/github/stars/nirgeier?style=social">
   <img src="https://camo.githubusercontent.com/ed4015e1bae53aed1d60fed54caec574451dd96f1f8866efc0a025ca59f0cf70/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6e69726765696572" alt="Visitor Badge" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=nirgeier" style="max-width: 100%;">
             
+  <br/>
   <br/>
 
   ![Git          ](https://img.shields.io/badge/Git-1?logo=git&logoColor=white&labelColor=black&color=black)
@@ -61,7 +65,6 @@
   ![Vault        ](https://img.shields.io/badge/Vault-1?logo=Vault&logoColor=white&labelColor=black&color=black)
   ![Consul       ](https://img.shields.io/badge/Consul-1?logo=Consul&logoColor=white&labelColor=black&color=black)
   
-    <br/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirgeier&layout=compact&theme=vision-friendly-dark">
   <img height="150" src="http://github-readme-streak-stats.herokuapp.com/?user=nirgeier&theme=dark&background=000000">
   
