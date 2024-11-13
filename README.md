@@ -66,6 +66,6 @@
   ![Consul       ](https://img.shields.io/badge/Consul-1?logo=Consul&logoColor=white&labelColor=black&color=black)
   
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirgeier&layout=compact&theme=vision-friendly-dark">
-  <img height="150" src="http://github-readme-streak-stats.herokuapp.com/?user=nirgeier&theme=dark&background=000000">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=nirgeier&theme=dark&background=000000">
   
 </div>
